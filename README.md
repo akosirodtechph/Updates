@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "Zeroflix",
-  "Description": "Test Message",
+  "Description": "Please Update The New Version For better experience",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
